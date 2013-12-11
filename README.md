@@ -1,4 +1,7 @@
-QuanLy_BanHang
-==============
+Quản Lý Bán Hàng
+=======
 
-Quản lý bán hàng
+[![Padyn](http://padyn.com/img/padyn.png)](http://www.padyn.com)
+
+Quản Lý Khách hàng, nhân sự, hàng hóa,Kho,Tài Chính
+----------------
